@@ -1,6 +1,6 @@
 import styled from "styled-components";
 
-export const PriymaryButton = (props) => {
+export const PrimaryButton = (props) => {
   const { children } = props;
   return <Sbutton>{children}</Sbutton>;
 };
