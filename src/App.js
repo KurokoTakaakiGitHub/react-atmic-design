@@ -8,7 +8,7 @@ const user = {
   name: "ねこ",
   image: "https://source.unsplash.com/nKC772R_qog",
   email: "1111@aaa.com",
-  phome: "090-1111-2222",
+  phone: "090-1111-2222",
   company: {
     name: "テスト株式会社"
   },
