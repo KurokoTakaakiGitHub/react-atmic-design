@@ -1,6 +1,6 @@
 import { Header } from "../layout/Header";
 
-export const HederOnly = (props) => {
+export const HeaderOnly = (props) => {
   const { children } = props;
   return (
     <>
